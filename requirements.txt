@@ -1,6 +1,6 @@
 pandas
 numpy
 matplotlib
-streamlit
 seaborn
-pathlib
+streamlit
+altair==4.2.2
