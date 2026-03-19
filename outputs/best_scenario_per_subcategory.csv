@@ -1,0 +1,18 @@
+Sub-Category,Category,Scenario,New_Revenue,New_Profit,Revenue_Change,Profit_Change,Demand_Response
+Accessories,Technology,Price +10%,183165.62,45891.6,15785.3,3954.96,Unusual — Investigate
+Appliances,Office Supplies,Price +10%,116353.88,19626.01,8821.72,1488.0,Unusual — Investigate
+Art,Office Supplies,Price +10%,29949.87,7208.88,2842.84,684.27,Unusual — Investigate
+Binders,Office Supplies,Price +10%,240181.49,35692.62,36772.32,5464.62,Inelastic — Price Stable
+Bookcases,Furniture,Price -20%,69405.72,-2097.98,-45474.28,1374.58,Unusual — Investigate
+Chairs,Furniture,Price +10%,380586.93,30847.43,52809.17,4280.3,Unusual — Investigate
+Copiers,Technology,Price +10%,158848.58,59084.65,9320.55,3466.83,Unusual — Investigate
+Envelopes,Office Supplies,Price +10%,18969.45,8017.93,2493.05,1053.75,Unusual — Investigate
+Fasteners,Office Supplies,Price +5%,3009.17,944.78,-15.11,-4.74,Inelastic — Price Stable
+Furnishings,Furniture,Price +10%,110524.23,15735.1,18841.21,2682.38,Unusual — Investigate
+Labels,Office Supplies,Price +10%,13093.89,5814.57,648.98,288.19,Unusual — Investigate
+Machines,Technology,Price +10%,223588.41,3999.15,34349.78,614.39,Unusual — Investigate
+Paper,Office Supplies,Price +10%,88226.31,38284.54,10002.17,4340.3,Inelastic — Price Stable
+Phones,Technology,Price +10%,351096.75,47360.59,21089.7,2844.86,Inelastic — Price Stable
+Storage,Office Supplies,Price +10%,255252.57,24264.6,31408.96,2985.77,Unusual — Investigate
+Supplies,Office Supplies,Price -20%,35128.66,-894.97,-11544.88,294.13,Unusual — Investigate
+Tables,Furniture,Price -20%,155739.06,-13338.21,-51226.47,4387.27,Unusual — Investigate

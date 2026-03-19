@@ -1,0 +1,18 @@
+Sub-Category,Proxy_Elasticity,Demand_Response,Transaction_Count_x,Reliability,Transaction_Count_y,Transaction_Count,Category
+Accessories,0.107,Unusual — Investigate,775,High Reliability,775,775,Technology
+Appliances,0.092,Unusual — Investigate,466,High Reliability,466,466,Office Supplies
+Art,0.292,Unusual — Investigate,795,High Reliability,795,795,Office Supplies
+Binders,-0.036,Inelastic — Price Stable,1522,High Reliability,1522,1522,Office Supplies
+Bookcases,1.188,Unusual — Investigate,228,High Reliability,228,228,Furniture
+Chairs,0.602,Unusual — Investigate,615,High Reliability,615,615,Furniture
+Copiers,0.268,Unusual — Investigate,68,Moderate Reliability,68,68,Technology
+Envelopes,0.087,Unusual — Investigate,254,High Reliability,254,254,Office Supplies
+Fasteners,-0.939,Inelastic — Price Stable,217,High Reliability,217,217,Office Supplies
+Furnishings,1.012,Unusual — Investigate,956,High Reliability,956,956,Furniture
+Labels,0.261,Unusual — Investigate,363,High Reliability,363,363,Office Supplies
+Machines,0.912,Unusual — Investigate,115,Moderate Reliability,115,115,Technology
+Paper,-0.037,Inelastic — Price Stable,1359,High Reliability,1359,1359,Office Supplies
+Phones,-0.404,Inelastic — Price Stable,889,High Reliability,889,889,Technology
+Storage,0.43,Unusual — Investigate,846,High Reliability,846,846,Office Supplies
+Supplies,0.104,Unusual — Investigate,190,Moderate Reliability,190,190,Office Supplies
+Tables,0.249,Unusual — Investigate,319,High Reliability,319,319,Furniture

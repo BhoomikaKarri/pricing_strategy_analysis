@@ -1,0 +1,103 @@
+Sub-Category,Category,Scenario,Base_Price,New_Price,Base_Revenue,New_Revenue,Revenue_Change,Base_Profit,New_Profit,Profit_Change,Demand_Response
+Accessories,Technology,Price -20%,55.36,44.29,167380.32,128980.54,-38399.78,41936.64,32315.69,-9620.95,Unusual — Investigate
+Accessories,Technology,Price -10%,55.36,49.82,167380.32,146689.67,-20690.65,41936.64,36752.66,-5183.98,Unusual — Investigate
+Accessories,Technology,Price -5%,55.36,52.59,167380.32,155676.44,-11703.88,41936.64,39004.27,-2932.37,Unusual — Investigate
+Accessories,Technology,Current,55.36,55.36,167380.32,164751.36,-2628.96,41936.64,41277.96,-658.68,Unusual — Investigate
+Accessories,Technology,Price +5%,55.36,58.13,167380.32,173914.42,6534.1,41936.64,43573.74,1637.1,Unusual — Investigate
+Accessories,Technology,Price +10%,55.36,60.9,167380.32,183165.62,15785.3,41936.64,45891.6,3954.96,Unusual — Investigate
+Appliances,Office Supplies,Price -20%,60.62,48.5,107532.16,82306.75,-25225.41,18138.01,13883.11,-4254.9,Unusual — Investigate
+Appliances,Office Supplies,Price -10%,60.62,54.56,107532.16,93462.94,-14069.22,18138.01,15764.88,-2373.13,Unusual — Investigate
+Appliances,Office Supplies,Price -5%,60.62,57.59,107532.16,99113.35,-8418.81,18138.01,16717.97,-1420.04,Unusual — Investigate
+Appliances,Office Supplies,Current,60.62,60.62,107532.16,104811.98,-2720.18,18138.01,17679.18,-458.83,Unusual — Investigate
+Appliances,Office Supplies,Price +5%,60.62,63.65,107532.16,110558.82,3026.66,18138.01,18648.53,510.52,Unusual — Investigate
+Appliances,Office Supplies,Price +10%,60.62,66.68,107532.16,116353.88,8821.72,18138.01,19626.01,1488.0,Unusual — Investigate
+Art,Office Supplies,Price -20%,8.83,7.06,27107.03,19927.78,-7179.25,6524.61,4796.58,-1728.03,Unusual — Investigate
+Art,Office Supplies,Price -10%,8.83,7.95,27107.03,23113.98,-3993.05,6524.61,5563.49,-961.12,Unusual — Investigate
+Art,Office Supplies,Price -5%,8.83,8.39,27107.03,24765.02,-2342.01,6524.61,5960.89,-563.72,Unusual — Investigate
+Art,Office Supplies,Current,8.83,8.83,27107.03,26454.68,-652.35,6524.61,6367.59,-157.02,Unusual — Investigate
+Art,Office Supplies,Price +5%,8.83,9.27,27107.03,28182.96,1075.93,6524.61,6783.59,258.98,Unusual — Investigate
+Art,Office Supplies,Price +10%,8.83,9.71,27107.03,29949.87,2842.84,6524.61,7208.88,684.27,Unusual — Investigate
+Binders,Office Supplies,Price -20%,36.7,29.36,203409.17,176570.78,-26838.39,30228.0,26239.63,-3988.37,Inelastic — Price Stable
+Binders,Office Supplies,Price -10%,36.7,33.03,203409.17,197932.13,-5477.04,30228.0,29414.07,-813.93,Inelastic — Price Stable
+Binders,Office Supplies,Price -5%,36.7,34.87,203409.17,208553.64,5144.47,30228.0,30992.5,764.5,Inelastic — Price Stable
+Binders,Office Supplies,Current,36.7,36.7,203409.17,219135.7,15726.53,30228.0,32565.07,2337.07,Inelastic — Price Stable
+Binders,Office Supplies,Price +5%,36.7,38.54,203409.17,229678.32,26269.15,30228.0,34131.78,3903.78,Inelastic — Price Stable
+Binders,Office Supplies,Price +10%,36.7,40.37,203409.17,240181.49,36772.32,30228.0,35692.62,5464.62,Inelastic — Price Stable
+Bookcases,Furniture,Price -20%,131.1,104.88,114880.0,69405.72,-45474.28,-3472.56,-2097.98,1374.58,Unusual — Investigate
+Bookcases,Furniture,Price -10%,131.1,117.99,114880.0,90248.38,-24631.62,-3472.56,-2728.0,744.56,Unusual — Investigate
+Bookcases,Furniture,Price -5%,131.1,124.54,114880.0,101683.62,-13196.38,-3472.56,-3073.66,398.9,Unusual — Investigate
+Bookcases,Furniture,Current,131.1,131.1,114880.0,113794.8,-1085.2,-3472.56,-3439.76,32.8,Unusual — Investigate
+Bookcases,Furniture,Price +5%,131.1,137.66,114880.0,126581.92,11701.92,-3472.56,-3826.28,-353.72,Unusual — Investigate
+Bookcases,Furniture,Price +10%,131.1,144.21,114880.0,140044.98,25164.98,-3472.56,-4233.24,-760.68,Unusual — Investigate
+Chairs,Furniture,Price -20%,138.81,111.05,327777.76,229640.56,-98137.2,26567.13,18612.89,-7954.24,Unusual — Investigate
+Chairs,Furniture,Price -10%,138.81,124.93,327777.76,276026.85,-51750.91,26567.13,22372.6,-4194.53,Unusual — Investigate
+Chairs,Furniture,Price -5%,138.81,131.87,327777.76,300693.44,-27084.32,26567.13,24371.88,-2195.25,Unusual — Investigate
+Chairs,Furniture,Current,138.81,138.81,327777.76,326342.31,-1435.45,26567.13,26450.78,-116.35,Unusual — Investigate
+Chairs,Furniture,Price +5%,138.81,145.75,327777.76,352973.47,25195.71,26567.13,28609.3,2042.17,Unusual — Investigate
+Chairs,Furniture,Price +10%,138.81,152.69,327777.76,380586.93,52809.17,26567.13,30847.43,4280.3,Unusual — Investigate
+Copiers,Technology,Price -20%,601.02,480.82,149528.03,106480.36,-43047.67,55617.82,39605.99,-16011.83,Unusual — Investigate
+Copiers,Technology,Price -10%,601.02,540.92,149528.03,123182.61,-26345.42,55617.82,45818.49,-9799.33,Unusual — Investigate
+Copiers,Technology,Price -5%,601.02,570.97,149528.03,131816.42,-17711.61,55617.82,49029.88,-6587.94,Unusual — Investigate
+Copiers,Technology,Current,601.02,601.02,149528.03,140638.68,-8889.35,55617.82,52311.37,-3306.45,Unusual — Investigate
+Copiers,Technology,Price +5%,601.02,631.07,149528.03,149649.4,121.37,55617.82,55662.96,45.14,Unusual — Investigate
+Copiers,Technology,Price +10%,601.02,661.12,149528.03,158848.58,9320.55,55617.82,59084.65,3466.83,Unusual — Investigate
+Envelopes,Office Supplies,Price -20%,18.87,15.1,16476.4,13439.0,-3037.4,6964.18,5680.34,-1283.84,Unusual — Investigate
+Envelopes,Office Supplies,Price -10%,18.87,16.98,16476.4,15252.73,-1223.67,6964.18,6446.97,-517.21,Unusual — Investigate
+Envelopes,Office Supplies,Price -5%,18.87,17.93,16476.4,16170.76,-305.64,6964.18,6834.99,-129.19,Unusual — Investigate
+Envelopes,Office Supplies,Current,18.87,18.87,16476.4,17096.22,619.82,6964.18,7226.16,261.98,Unusual — Investigate
+Envelopes,Office Supplies,Price +5%,18.87,19.81,16476.4,18029.12,1552.72,6964.18,7620.48,656.3,Unusual — Investigate
+Envelopes,Office Supplies,Price +10%,18.87,20.76,16476.4,18969.45,2493.05,6964.18,8017.93,1053.75,Unusual — Investigate
+Fasteners,Office Supplies,Price -20%,3.29,2.63,3024.28,2857.43,-166.85,949.52,897.13,-52.39,Inelastic — Price Stable
+Fasteners,Office Supplies,Price -10%,3.29,2.96,3024.28,2960.48,-63.8,949.52,929.49,-20.03,Inelastic — Price Stable
+Fasteners,Office Supplies,Price -5%,3.29,3.13,3024.28,2990.83,-33.45,949.52,939.02,-10.5,Inelastic — Price Stable
+Fasteners,Office Supplies,Current,3.29,3.29,3024.28,3007.06,-17.22,949.52,944.11,-5.41,Inelastic — Price Stable
+Fasteners,Office Supplies,Price +5%,3.29,3.45,3024.28,3009.17,-15.11,949.52,944.78,-4.74,Inelastic — Price Stable
+Fasteners,Office Supplies,Price +10%,3.29,3.62,3024.28,2997.17,-27.11,949.52,941.01,-8.51,Inelastic — Price Stable
+Furnishings,Furniture,Price -20%,25.63,20.5,91683.02,58220.21,-33462.81,13052.72,8288.69,-4764.03,Unusual — Investigate
+Furnishings,Furniture,Price -10%,25.63,23.07,91683.02,73808.13,-17874.89,13052.72,10507.91,-2544.81,Unusual — Investigate
+Furnishings,Furniture,Price -5%,25.63,24.35,91683.02,82294.62,-9388.4,13052.72,11716.11,-1336.61,Unusual — Investigate
+Furnishings,Furniture,Current,25.63,25.63,91683.02,91242.8,-440.22,13052.72,12990.05,-62.67,Unusual — Investigate
+Furnishings,Furniture,Price +5%,25.63,26.91,91683.02,100652.67,8969.65,13052.72,14329.71,1276.99,Unusual — Investigate
+Furnishings,Furniture,Price +10%,25.63,28.19,91683.02,110524.23,18841.21,13052.72,15735.1,2682.38,Unusual — Investigate
+Labels,Office Supplies,Price -20%,8.31,6.65,12444.91,8796.16,-3648.75,5526.38,3906.09,-1620.29,Unusual — Investigate
+Labels,Office Supplies,Price -10%,8.31,7.48,12444.91,10168.18,-2276.73,5526.38,4515.36,-1011.02,Unusual — Investigate
+Labels,Office Supplies,Price -5%,8.31,7.89,12444.91,10876.9,-1568.01,5526.38,4830.08,-696.3,Unusual — Investigate
+Labels,Office Supplies,Current,8.31,8.31,12444.91,11600.76,-844.15,5526.38,5151.52,-374.86,Unusual — Investigate
+Labels,Office Supplies,Price +5%,8.31,8.73,12444.91,12339.76,-105.15,5526.38,5479.69,-46.69,Unusual — Investigate
+Labels,Office Supplies,Price +10%,8.31,9.14,12444.91,13093.89,648.98,5526.38,5814.57,288.19,Unusual — Investigate
+Machines,Technology,Price -20%,423.35,338.68,189238.63,121838.1,-67400.53,3384.76,2179.22,-1205.54,Unusual — Investigate
+Machines,Technology,Price -10%,423.35,381.02,189238.63,152357.23,-36881.4,3384.76,2725.09,-659.67,Unusual — Investigate
+Machines,Technology,Price -5%,423.35,402.18,189238.63,168890.91,-20347.72,3384.76,3020.82,-363.94,Unusual — Investigate
+Machines,Technology,Current,423.35,423.35,189238.63,186274.0,-2964.63,3384.76,3331.73,-53.03,Unusual — Investigate
+Machines,Technology,Price +5%,423.35,444.52,189238.63,204506.5,15267.87,3384.76,3657.84,273.08,Unusual — Investigate
+Machines,Technology,Price +10%,423.35,465.69,189238.63,223588.41,34349.78,3384.76,3999.15,614.39,Unusual — Investigate
+Paper,Office Supplies,Price -20%,15.65,12.52,78224.14,64879.46,-13344.68,33944.24,28153.51,-5790.73,Inelastic — Price Stable
+Paper,Office Supplies,Price -10%,15.65,14.09,78224.14,72721.32,-5502.82,33944.24,31556.37,-2387.87,Inelastic — Price Stable
+Paper,Office Supplies,Price -5%,15.65,14.87,78224.14,76619.91,-1604.23,33944.24,33248.11,-696.13,Inelastic — Price Stable
+Paper,Office Supplies,Current,15.65,15.65,78224.14,80503.6,2279.46,33944.24,34933.38,989.14,Inelastic — Price Stable
+Paper,Office Supplies,Price +5%,15.65,16.43,78224.14,84372.4,6148.26,33944.24,36612.19,2667.95,Inelastic — Price Stable
+Paper,Office Supplies,Price +10%,15.65,17.22,78224.14,88226.31,10002.17,33944.24,38284.54,4340.3,Inelastic — Price Stable
+Phones,Technology,Price -20%,101.13,80.9,330007.05,287593.59,-42413.46,44515.73,38794.44,-5721.29,Inelastic — Price Stable
+Phones,Technology,Price -10%,101.13,91.02,330007.05,311448.85,-18558.2,44515.73,42012.35,-2503.38,Inelastic — Price Stable
+Phones,Technology,Price -5%,101.13,96.07,330007.05,322368.65,-7638.4,44515.73,43485.36,-1030.37,Inelastic — Price Stable
+Phones,Technology,Current,101.13,101.13,330007.05,332616.57,2609.52,44515.73,44867.74,352.01,Inelastic — Price Stable
+Phones,Technology,Price +5%,101.13,106.19,330007.05,342192.6,12185.55,44515.73,46159.48,1643.75,Inelastic — Price Stable
+Phones,Technology,Price +10%,101.13,111.24,330007.05,351096.75,21089.7,44515.73,47360.59,2844.86,Inelastic — Price Stable
+Storage,Office Supplies,Price -20%,70.45,56.36,223843.61,162678.18,-61165.43,21278.83,15464.37,-5814.46,Unusual — Investigate
+Storage,Office Supplies,Price -10%,70.45,63.41,223843.61,191622.97,-32220.64,21278.83,18215.9,-3062.93,Unusual — Investigate
+Storage,Office Supplies,Price -5%,70.45,66.93,223843.61,206812.87,-17030.74,21278.83,19659.87,-1618.96,Unusual — Investigate
+Storage,Office Supplies,Current,70.45,70.45,223843.61,222481.1,-1362.51,21278.83,21149.31,-129.52,Unusual — Investigate
+Storage,Office Supplies,Price +5%,70.45,73.97,223843.61,238627.67,14784.06,21278.83,22684.22,1405.39,Unusual — Investigate
+Storage,Office Supplies,Price +10%,70.45,77.5,223843.61,255252.57,31408.96,21278.83,24264.6,2985.77,Unusual — Investigate
+Supplies,Office Supplies,Price -20%,69.31,55.45,46673.54,35128.66,-11544.88,-1189.1,-894.97,294.13,Unusual — Investigate
+Supplies,Office Supplies,Price -10%,69.31,62.38,46673.54,39939.48,-6734.06,-1189.1,-1017.54,171.56,Unusual — Investigate
+Supplies,Office Supplies,Price -5%,69.31,65.84,46673.54,42379.86,-4293.68,-1189.1,-1079.71,109.39,Unusual — Investigate
+Supplies,Office Supplies,Current,69.31,69.31,46673.54,44843.57,-1829.97,-1189.1,-1142.48,46.62,Unusual — Investigate
+Supplies,Office Supplies,Price +5%,69.31,72.78,46673.54,47330.59,657.05,-1189.1,-1205.84,-16.74,Unusual — Investigate
+Supplies,Office Supplies,Price +10%,69.31,76.24,46673.54,49840.94,3167.4,-1189.1,-1269.8,-80.7,Unusual — Investigate
+Tables,Furniture,Price -20%,165.09,132.07,206965.53,155739.06,-51226.47,-17725.48,-13338.21,4387.27,Unusual — Investigate
+Tables,Furniture,Price -10%,165.09,148.58,206965.53,179797.73,-27167.8,-17725.48,-15398.71,2326.77,Unusual — Investigate
+Tables,Furniture,Price -5%,165.09,156.84,206965.53,192209.68,-14755.85,-17725.48,-16461.72,1263.76,Unusual — Investigate
+Tables,Furniture,Current,165.09,165.09,206965.53,204876.69,-2088.84,-17725.48,-17546.58,178.9,Unusual — Investigate
+Tables,Furniture,Price +5%,165.09,173.34,206965.53,217798.78,10833.25,-17725.48,-18653.29,-927.81,Unusual — Investigate
+Tables,Furniture,Price +10%,165.09,181.6,206965.53,230975.93,24010.4,-17725.48,-19781.84,-2056.36,Unusual — Investigate

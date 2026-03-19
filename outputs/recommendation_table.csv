@@ -1,0 +1,18 @@
+Sub-Category,Category,Scenario,New_Profit,Profit_Change,Action_Group,Proxy_Elasticity,Demand_Response,Bundle_Candidate
+Binders,Office Supplies,Price +10%,35692.62,5464.62,Increase Price,-0.036,Inelastic — Price Stable,Bundle to Increase Order Value
+Tables,Furniture,Price -20%,-13338.21,4387.27,High Risk — Persistent Loss-Making,0.249,Unusual — Investigate,Bundle Instead of Discount
+Paper,Office Supplies,Price +10%,38284.54,4340.3,Increase Price,-0.037,Inelastic — Price Stable,Standard Pricing
+Chairs,Furniture,Price +10%,30847.43,4280.3,Increase Price,0.602,Unusual — Investigate,Bundle to Increase Order Value
+Accessories,Technology,Price +10%,45891.6,3954.96,Increase Price,0.107,Unusual — Investigate,Standard Pricing
+Copiers,Technology,Price +10%,59084.65,3466.83,Increase Price,0.268,Unusual — Investigate,Standard Pricing
+Storage,Office Supplies,Price +10%,24264.6,2985.77,Increase Price,0.43,Unusual — Investigate,Bundle to Increase Order Value
+Phones,Technology,Price +10%,47360.59,2844.86,Increase Price,-0.404,Inelastic — Price Stable,Standard Pricing
+Furnishings,Furniture,Price +10%,15735.1,2682.38,Increase Price,1.012,Unusual — Investigate,Standard Pricing
+Appliances,Office Supplies,Price +10%,19626.01,1488.0,Increase Price,0.092,Unusual — Investigate,Bundle to Increase Order Value
+Bookcases,Furniture,Price -20%,-2097.98,1374.58,High Risk — Persistent Loss-Making,1.188,Unusual — Investigate,Bundle Instead of Discount
+Envelopes,Office Supplies,Price +10%,8017.93,1053.75,Increase Price,0.087,Unusual — Investigate,Standard Pricing
+Art,Office Supplies,Price +10%,7208.88,684.27,Increase Price,0.292,Unusual — Investigate,Standard Pricing
+Machines,Technology,Price +10%,3999.15,614.39,Increase Price,0.912,Unusual — Investigate,Bundle to Increase Order Value
+Supplies,Office Supplies,Price -20%,-894.97,294.13,High Risk — Persistent Loss-Making,0.104,Unusual — Investigate,Bundle Instead of Discount
+Labels,Office Supplies,Price +10%,5814.57,288.19,Increase Price,0.261,Unusual — Investigate,Standard Pricing
+Fasteners,Office Supplies,Price +5%,944.78,-4.74,Increase Price,-0.939,Inelastic — Price Stable,Standard Pricing
