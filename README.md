@@ -109,7 +109,7 @@ streamlit run app/streamlit_app.py
 ```
 ## Live App
 
-👉 https://retail-pricing-optimizer.streamlit.app
+👉 https://pricing-strategy-analysis.streamlit.app/
 
 ---
 
