@@ -97,3 +97,20 @@ pricing_strategy_analysis/
 │
 ├── requirements.txt
 └── README.md
+
+How to Run Locally
+
+git clone https://github.com/YOUR_USERNAME/pricing-strategy-analysis.git
+cd pricing-strategy-analysis
+pip install -r requirements.txt
+streamlit run app/streamlit_app.py
+
+Author
+
+K. L. Bhoomika
+B.Tech Computer Science Engineering (Data Science)
+GITAM University, Visakhapatnam
+
+Note
+
+All recommendations are based on observed demand response patterns and directional scenario simulation. Results should be validated with controlled pricing experiments before full implementation.
