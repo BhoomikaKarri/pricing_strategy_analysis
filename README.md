@@ -97,6 +97,7 @@ pricing_strategy_analysis/
 │
 ├── requirements.txt
 └── README.md
+```
 
 How to Run Locally
 
